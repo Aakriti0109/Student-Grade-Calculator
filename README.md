@@ -55,13 +55,6 @@ StudentGradeCalculator/
 
 ## ▶️ How to Run
 
-### Using Command Line
-
-```bash
-javac Student.java Main.java
-java Main
-```
-
 ### Using IntelliJ IDEA
 
 1. Open the project
