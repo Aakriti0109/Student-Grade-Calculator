@@ -15,7 +15,7 @@ This project allows users to input student details, record grades, calculate ave
 * Calculate individual **average grades**
 * Determine **pass/fail status**
 * Display student grade reports
-* Compute **class average**
+* Compute the **class average**
 
 ---
 
